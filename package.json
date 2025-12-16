@@ -1,0 +1,13 @@
+{
+  "name": "servidor-nodejs-crud",
+  "version": "1.0.0",
+  "description": "API REST CRUD con Node.js y Express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
